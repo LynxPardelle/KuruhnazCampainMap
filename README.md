@@ -1,4 +1,4 @@
 # KuruhnazCampainMap
 
 Saludos amigos.
-Kuruhnaz
+Kuruhnaz es una ciudad.
